@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.samples.petclinic.owner.PetControllerTests$ProcessUpdateFormHasErrors" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-04-23T22:44:32.376Z" hostname="inkerinmaa" time="0.054">
+  <properties/>
+  <testcase name="testProcessUpdateFormWithInvalidBirthDate()" classname="org.springframework.samples.petclinic.owner.PetControllerTests$ProcessUpdateFormHasErrors" time="0.03"/>
+  <testcase name="testProcessUpdateFormWithBlankName()" classname="org.springframework.samples.petclinic.owner.PetControllerTests$ProcessUpdateFormHasErrors" time="0.022"/>
+  <system-out><![CDATA[2025-04-24T01:44:32.352+03:00  INFO 65715 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [org.springframework.samples.petclinic.owner.PetControllerTests$ProcessUpdateFormHasErrors]: ProcessUpdateFormHasErrors does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-04-24T01:44:32.372+03:00  INFO 65715 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration org.springframework.samples.petclinic.PetClinicApplication for test class org.springframework.samples.petclinic.owner.PetControllerTests$ProcessUpdateFormHasErrors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

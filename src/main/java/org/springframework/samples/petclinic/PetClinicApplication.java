@@ -20,6 +20,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ImportRuntimeHints;
 
+import org.springframework.samples.petclinic.PetClinicRuntimeHints;
+
 /**
  * PetClinic Spring Boot Application.
  *

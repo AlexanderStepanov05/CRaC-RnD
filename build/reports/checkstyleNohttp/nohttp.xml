@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.20.1">
+<file name="/home/inkerinmaa/CRaC-RnD/gradle/wrapper/gradle-wrapper.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/mvnw.cmd">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/build.gradle">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/Dockerfile">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/gradlew">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/pom.xml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/gradlew.bat">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/docker-compose.yml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/logs/application.log">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/LICENSE.txt">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/settings.gradle">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/.mvn/wrapper/maven-wrapper.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/k8s/db.yml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/k8s/petclinic.yml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/surefire/surefire-20250424014038093_1tmp">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/surefire/surefire_0-20250424014038093_2tmp">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/checkstyle-result.xml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/PetType.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/VisitController.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/OwnerController.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/Owner.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/Owner.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/VisitController.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/PetTypeFormatter.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/Visit.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/PetTypeFormatter.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/PetValidator.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/PetController.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/index.source.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/Pet.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/Pet.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/OwnerController.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/PetController.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/PetValidator.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/PetType.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/index.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.owner/Visit.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.model/index.source.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.model/NamedEntity.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.model/NamedEntity.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.model/index.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.model/BaseEntity.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.model/BaseEntity.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.model/Person.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.model/Person.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/down.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/bundle.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/report.css">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/branchfc.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/source.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/greenbar.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/group.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/prettify.css">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/sort.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/redbar.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/sort.js">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/up.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/branchpc.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/session.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/prettify.js">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/branchnc.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/method.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/package.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/report.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-resources/class.gif">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/WelcomeController.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/CacheConfiguration.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/WelcomeController.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/CrashController.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/index.source.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/CrashController.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/WebConfiguration.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/index.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/WebConfiguration.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.system/CacheConfiguration.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco.xml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco-sessions.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/Vet.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/VetController.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/Specialty.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/Vets.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/Vet.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/index.source.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/VetController.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/Vets.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/index.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic.vet/Specialty.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/jacoco.csv">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/index.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic/PetClinicApplication.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic/index.source.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic/PetClinicRuntimeHints.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic/PetClinicRuntimeHints.java.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic/PetClinicApplication.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/site/jacoco/org.springframework.samples.petclinic/index.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/checkstyle-header.txt">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/spring-petclinic-3.4.0-SNAPSHOT.jar.original">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/welcome.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/owners/ownerDetails.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/owners/ownersList.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/owners/findOwners.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/owners/createOrUpdateOwnerForm.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/fragments/selectField.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/fragments/inputField.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/fragments/layout.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/error.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/vets/vetList.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/pets/createOrUpdatePetForm.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/templates/pets/createOrUpdateVisitForm.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/application-postgres.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/application-mysql.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/css/petclinic.css">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/images/spring-logo-dataflow-mobile.png">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/images/favicon.png">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/images/pets.png">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/images/spring-logo-dataflow.png">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/images/spring-logo.svg">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/fonts/varela_round-webfont.ttf">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/fonts/varela_round-webfont.svg">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/fonts/montserrat-webfont.woff">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/fonts/varela_round-webfont.eot">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/fonts/montserrat-webfont.svg">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/fonts/montserrat-webfont.eot">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/fonts/montserrat-webfont.ttf">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/static/resources/fonts/varela_round-webfont.woff">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/META-INF/build-info.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/META-INF/sbom/application.cdx.json">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/git.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/application.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/h2/data.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/h2/schema.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/hsqldb/data.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/hsqldb/schema.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/postgres/petclinic_db_setup_postgres.txt">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/postgres/data.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/postgres/schema.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/mysql/user.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/mysql/petclinic_db_setup_mysql.txt">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/mysql/data.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/db/mysql/schema.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/banner.txt">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/messages/messages_en.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/messages/messages_ru.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/messages/messages_pt.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/messages/messages_es.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/messages/messages_de.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/messages/messages_tr.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/messages/messages_fa.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/messages/messages.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/classes/messages/messages_ko.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/checkstyle-cachefile">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/maven-archiver/pom.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/jacoco.exec">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/surefire-reports/org.springframework.samples.petclinic.service.ClinicServiceTests.txt">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/surefire-reports/TEST-org.springframework.samples.petclinic.service.ClinicServiceTests.xml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/target/checkstyle-checker.xml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/checkstyle/nohttp-checkstyle.xml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/checkstyle/nohttp-checkstyle-suppressions.xml">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/welcome.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/owners/ownerDetails.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/owners/ownersList.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/owners/findOwners.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/owners/createOrUpdateOwnerForm.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/fragments/selectField.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/fragments/inputField.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/fragments/layout.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/error.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/vets/vetList.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/pets/createOrUpdatePetForm.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/templates/pets/createOrUpdateVisitForm.html">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/application-postgres.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/application-mysql.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/css/petclinic.css">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/images/spring-logo-dataflow-mobile.png">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/images/favicon.png">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/images/pets.png">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/images/spring-logo-dataflow.png">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/images/spring-logo.svg">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/fonts/varela_round-webfont.ttf">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/fonts/varela_round-webfont.svg">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/fonts/montserrat-webfont.woff">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/fonts/varela_round-webfont.eot">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/fonts/montserrat-webfont.svg">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/fonts/montserrat-webfont.eot">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/fonts/montserrat-webfont.ttf">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/static/resources/fonts/varela_round-webfont.woff">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/application.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/h2/data.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/h2/schema.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/hsqldb/data.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/hsqldb/schema.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/postgres/petclinic_db_setup_postgres.txt">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/postgres/data.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/postgres/schema.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/mysql/user.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/mysql/petclinic_db_setup_mysql.txt">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/mysql/data.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/db/mysql/schema.sql">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/banner.txt">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/messages/messages_en.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/messages/messages_ru.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/messages/messages_pt.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/messages/messages_es.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/messages/messages_de.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/messages/messages_tr.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/messages/messages_fa.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/messages/messages.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/resources/messages/messages_ko.properties">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/system/CrashController.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/system/WebConfiguration.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/system/CacheConfiguration.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/system/WelcomeController.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/PetClinicRuntimeHints.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/model/Person.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/model/NamedEntity.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/model/BaseEntity.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/model/package-info.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/vet/Specialty.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/vet/Vets.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/vet/VetRepository.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/vet/Vet.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/vet/VetController.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/Pet.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/PetController.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/Owner.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/OwnerController.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/VisitController.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/Visit.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/OwnerRepository.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/PetTypeFormatter.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/PetType.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/owner/PetValidator.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/scss/responsive.scss">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/scss/header.scss">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/scss/typography.scss">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/main/scss/petclinic.scss">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/jmeter/petclinic_test_plan.jmx">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/service/EntityUtils.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/MysqlTestApplication.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/system/CrashControllerIntegrationTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/system/CrashControllerTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/MySqlIntegrationTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/PostgresIntegrationTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/vet/VetControllerTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/vet/VetTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/PetClinicIntegrationTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/owner/PetTypeFormatterTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/owner/OwnerControllerTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/owner/PetControllerTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/owner/PetValidatorTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/src/test/java/org/springframework/samples/petclinic/owner/VisitControllerTests.java">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/mvnw">
+</file>
+<file name="/home/inkerinmaa/CRaC-RnD/LICENSE">
+</file>
+</checkstyle>

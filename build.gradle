@@ -35,6 +35,8 @@ dependencies {
   // Workaround for AOT issue (https://github.com/spring-projects/spring-framework/pull/33949) -->
   implementation 'io.projectreactor:reactor-core'
 
+  implementation 'org.crac:crac:1.5.0'
+
   implementation 'org.springframework.boot:spring-boot-starter-cache'
   implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
   implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
